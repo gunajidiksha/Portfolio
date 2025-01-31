@@ -1,26 +1,20 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Kisan Seva",
+    "imageSrc": "projects/kisanseva.png",
+    "description": "Enhanced farming efficiency with data-driven crop predictions, disease detection, optimized fertilizer use, and streamlined resource management.",
+    "skills": ["React", "Express", "Node"]
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "EcoHub",
+    "imageSrc": "projects/ecohub.png",
+    "description": "Revolutionized energy management with real-time monitoring, error reduction, optimized maintenance, and increased access to sustainable energy.",
+    "skills": ["HTML","CSS","JS", "Node", "MongoDB"]
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Code For Green",
+    "imageSrc": "projects/codeforgreen.png",
+    "description": "Developed a sustainable waste management platform that converts organic waste into compost, promoting eco-friendly farming and community engagement.",
+    "skills": ["HTML","CSS","JS" ]
   }
 ]
